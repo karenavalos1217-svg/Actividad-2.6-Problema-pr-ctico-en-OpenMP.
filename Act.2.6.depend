@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1789243351 source:c:\users\karen\onedrive\documentos\programacion paralela\act.2.6\main.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<omp.h>
+
