@@ -4,7 +4,7 @@
 ## Integrantes
 
 - Avalos Oliva Karen Lizeth
-- Pardo Correa Gonzalo
+- Oliver Daniel Chavez Torres
 - Ramírez Arvizu Fernando David
 
 ## Descripción de la solución
